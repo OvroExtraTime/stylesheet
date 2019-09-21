@@ -1,0 +1,12 @@
+.block-container {
+    color: #ecf0f1;
+    background: #3498db;
+    border-width: 0;
+    border-style: solid;
+    border-top-color: #465b6f;
+    border-right-color: #465b6f;
+    border-bottom-color: #465b6f;
+    border-left-color: #465b6f;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px 0 rgba(5,7,9,0.2);
+}
